@@ -1,4 +1,5 @@
 Nigeria Food Price Trends
+
 An Analysis of Essential Food Prices Between January 2025 and January 2026
 
 Tools: Microsoft Excel | Power Query | Power BI | DAX
