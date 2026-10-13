@@ -1,5 +1,4 @@
 Nigeria Food Price Trends
-
 An Analysis of Essential Food Prices Between January 2025 and January 2026
 
 Tools: Microsoft Excel | Power Query | Power BI | DAX
@@ -123,8 +122,6 @@ The selected food items showed different price movements over the period, and re
 
 This project demonstrates the use of Excel, Power Query, Power BI and DAX to prepare data, analyse price patterns and present findings in a business dashboard.
 
-Author
-
-Zariat Ayoade
-
+Written by:
+Zariat Yetunde Ayoade
 Junior Data Analyst | Excel | SQL | Power BI | Python
